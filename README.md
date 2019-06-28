@@ -12,6 +12,8 @@
 
 ## About
 
+Forked from Crazy-Max to try and fix it to work on Unraid
+
 🐳 [Nextcloud](https://nextcloud.com) Docker image based on Alpine Linux and Nginx with advanced features.<br />
 If you are interested, [check out](https://hub.docker.com/r/crazymax/) my other 🐳 Docker images!
 
